@@ -44,11 +44,9 @@ Color Chooser,      yad --color,                      org.xfce.settings.color
 Install Extras,     ld-installers,                     applications-utilities
 
 ^tag(toggles)
-Tint2 Options,       ^checkout(tint2-options),                      preferences-system
-Wbar,                toggle.wbar,                                   preferences-system
 Conky,               $HOME/.config/conky/scripts/conky-chooser,     preferences-system
 Gammy,               toggle.gammy,                                  preferences-system
-Jgmenu,              jg-icon-changer,                               preferences-system
+Touchpad,            toggle-touchpad,                               preferences-system
 Hotcorners,          toggle.ld,                                     preferences-system
 Random BG,           toggle-wallpaper-random,                       preferences-system
 Tint2 Options,       tint2-options,                                 preferences-system
@@ -56,8 +54,8 @@ Mouse Finder,        toggle-mouse-pointer,                          preferences-
 Tint2 Toggle,        toggle.tint2,                                  preferences-system
 Apt Notifier,        tint2-notifier-options,                        preferences-system
 Auto Login,          lightdm-autologin,                             preferences-system
-Touchpad,            toggle-touchpad,                               preferences-system
 OSprober,            osprober-toggle,                               preferences-system
+Jgmenu,              jg-icon-changer,                               preferences-system
 Sounds,              notification-sounds,                           preferences-system
 Picom,               toggle.picom,                                  preferences-system
 Xkill,               xkill,                                         edit-delete
