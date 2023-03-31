@@ -16,10 +16,10 @@ lb config noauto \
      --firmware-chroot 'true' \
      --security 'true' \
      --memtest 'none' \
-     --image-name 'Lilidog-Bookworm-23.03.30' \
-     --iso-application 'Lilidog-Bookworm' \
-     --iso-publisher 'Lilidog-bookworm GNU/Linux' \
-     --iso-volume 'Lilidog-Bookworm' \
+     --image-name 'Lilidog-Minimal-Bookworm-23.03.31' \
+     --iso-application 'Lilidog-Minimal-Bookworm' \
+     --iso-publisher 'Lilidog-Minimal-bookworm GNU/Linux' \
+     --iso-volume 'Lilidog-Minimal-Bookworm' \
      --system 'live' \
      --updates 'true' \
      --win32-loader 'false' \
