@@ -1,7 +1,7 @@
                        
                  WELCOME TO LILIDOG!
                         
-    This is the Lilidog Bookworm Minimal Edition,
+    Welcome to the Lilidog-minimal Bookworm build
     allowing users to select and install packages
     for the most common items based on need.
     
