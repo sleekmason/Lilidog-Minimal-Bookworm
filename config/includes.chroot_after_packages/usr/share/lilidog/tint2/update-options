@@ -1,4 +1,3 @@
 Check For Updates,  tint2-apt-update-check,                                    applications-other
 Apt Update,         x-terminal-emulator -T 'Apt Update' -e 'sudo xupdate -i',  system-software-update
-LD Installers,      ld-installers,                                             system-software-install  
-Synaptic,           gksudo synaptic,                                           synaptic
+LD Installers,      ld-installers,                                             system-software-install
