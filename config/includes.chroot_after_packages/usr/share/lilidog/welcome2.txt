@@ -1,11 +1,11 @@
                        
                  WELCOME TO LILIDOG!
                         
-    This is the Lilidog Bookworm - Debian 12 Test
-    Addition. There could still be minor bugs and
-    other issues until the full debian release of  
-    Bookworm occurs. To report any issues:
-
+    This is the Lilidog Bookworm Minimal Edition,
+    allowing users to select and install packages
+    for the most common items based on need.
+    
+    To report any issues:
     https://www.forum.lilidog.org/
     
     For initial settings, please see the paw icon
