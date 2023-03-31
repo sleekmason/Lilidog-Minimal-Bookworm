@@ -1,0 +1,22 @@
+                       
+                 WELCOME TO LILIDOG!
+                        
+    This is the Lilidog Bookworm - Debian 12 Test
+    Addition. There could still be minor bugs and
+    other issues until the full debian release of  
+    Bookworm occurs. To report any issues:
+
+    https://www.forum.lilidog.org/
+    
+    For initial settings, please see the paw icon
+    located in the Tint2 panel. Font size, themes
+    wallpapers, and other options are available.
+
+    To install Lilidog, click on the green button 
+    in the system tray, or goto Menu All Programs
+    System - Install Lilidog. The 'root' password  
+    for the session is 'live'.
+    
+    The debian installer is also an option should
+    you prefer it. Reboot to access the menu.
+

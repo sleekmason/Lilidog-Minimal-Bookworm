@@ -1,0 +1,34 @@
+#!/bin/bash
+echo ""
+read -p "   Full Theme Reset
+
+   Resets most theming elements to installation default.
+
+   This will include:
+   
+   GTK and Openbox themes, system fonts and icons, wallpaper,
+   Geany, tint2 fonts and icon colors, notification sounds, 
+   Jgmenu icons and fonts, terminal, and Lightdm settings.
+
+   [0;36m-------------------------------------------------------
+   
+   Press enter to reset the theme to installation default.
+   
+   -------------------------------------------------------[0m
+
+      
+   Or close this terminal window to quit." ;
+echo ""
+~/.config/lilidog-themes/default
+echo ""
+echo ""
+echo ""
+echo "[0;36m   -------------------------------------------------------
+
+   All finished! If something did not change, check to
+   See if the item has been removed from the system.
+   
+   -------------------------------------------------------[0m"
+echo ""
+echo ""
+read -n1 -p " Press any key to quit. "
