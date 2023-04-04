@@ -41,6 +41,7 @@ Wallpaper Maker,    wallpaper-maker,                  applications-graphics
 App Alternatives,   galternatives,                    preferences-system
 Live USB Maker,     x-terminal-emulator -T 'Live USB Maker' -e "sudo live-usb-maker-gui-antix",     gparted
 Color Chooser,      yad --color,                      org.xfce.settings.color
+Apt Update,         tint2-updates,                    system-software-update
 Install Extras,     ld-installers,                     applications-utilities
 
 ^tag(toggles)
