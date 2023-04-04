@@ -161,7 +161,6 @@ sudo
 sxhkd
 syslinux
 syslinux-common
-syslinux-efi
 tasksel
 telnet
 tint2
@@ -183,6 +182,7 @@ usermode
 user-setup
 uuid-runtime
 va-driver-all
+vdpau-driver-all
 volumeicon-alsa
 w3m
 w3m-img
