@@ -39,9 +39,9 @@ Kernel Remover,     x-terminal-emulator -T 'Kernel Remover' -e 'sudo kernel-remo
 Check Firmware,     x-terminal-emulator -T 'Firmware Checker' -e bash -c "firmware-checker; echo $'\n\nPress any key to close.'; read -srn1",  applications-system
 Wallpaper Maker,    wallpaper-maker,                  applications-graphics
 App Alternatives,   galternatives,                    preferences-system
+Update Options,     update-options,                   system-software-update
 Live USB Maker,     x-terminal-emulator -T 'Live USB Maker' -e "sudo live-usb-maker-gui-antix",     gparted
 Color Chooser,      yad --color,                      org.xfce.settings.color
-Apt Update,         tint2-updates,                    system-software-update
 Install Extras,     ld-installers,                     applications-utilities
 
 ^tag(toggles)
