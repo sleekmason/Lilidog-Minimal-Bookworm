@@ -53,7 +53,6 @@ Random BG,           toggle-wallpaper-random,                       preferences-
 Tint2 Options,       tint2-options,                                 preferences-system
 Mouse Finder,        toggle-mouse-pointer,                          preferences-system
 Tint2 Toggle,        toggle.tint2,                                  preferences-system
-Apt Notifier,        tint2-notifier-options,                        preferences-system
 Auto Login,          lightdm-autologin,                             preferences-system
 OSprober,            osprober-toggle,                               preferences-system
 Jgmenu,              jg-icon-changer,                               preferences-system
