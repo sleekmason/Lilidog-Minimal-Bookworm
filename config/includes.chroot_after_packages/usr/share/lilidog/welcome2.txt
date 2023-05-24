@@ -1,11 +1,11 @@
-                       
+
                  WELCOME TO LILIDOG!
                         
     Welcome to the Lilidog-minimal Bookworm build
     allowing users to select and install packages
     for the most common items based on need.
-    
-    To report any issues:
+     
+    Check out our forum for more information:
     https://www.forum.lilidog.org/
     
     For initial settings, please see the paw icon
