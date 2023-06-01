@@ -48,6 +48,7 @@ Install Extras,     ld-installers,                     applications-utilities
 Conky,               $HOME/.config/conky/scripts/conky-chooser,     preferences-system
 Gammy,               toggle.gammy,                                  preferences-system
 Touchpad,            toggle-touchpad,                               preferences-system
+Brightness,          bright,                                        preferences-system
 Hotcorners,          toggle.ld,                                     preferences-system
 Random BG,           toggle-wallpaper-random,                       preferences-system
 Tint2 Options,       tint2-options,                                 preferences-system
