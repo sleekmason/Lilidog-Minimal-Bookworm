@@ -15,7 +15,7 @@ lb config noauto \
      --firmware-chroot 'true' \
      --security 'true' \
      --memtest 'none' \
-     --image-name 'Lilidog-Minimal-Bookworm-23.06.10' \
+     --image-name 'Lilidog-Minimal-Bookworm-23.06.15' \
      --iso-application 'Lilidog-Minimal-Bookworm' \
      --iso-publisher 'Lilidog-Minimal-bookworm GNU/Linux' \
      --iso-volume 'Lilidog-Minimal-Bookworm' \
