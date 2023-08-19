@@ -15,7 +15,6 @@
 ### Other items not in use.
 # @xscreensaver -no-splash &
 
-
 ### Touchpad Settings
 ### To use tap-to-click and the syndaemon for movement during keystrokes,
 ### un-comment the below two lines and log out/in for settings to take affect.
