@@ -12,7 +12,6 @@ at-spi2-core
 b43-fwcutter
 bash-completion
 bind9-dnsutils
-breeze-icon-theme
 btrfs-progs
 bzip2
 ca-certificates
@@ -124,6 +123,7 @@ network-manager-gnome
 ntfs-3g
 ntp
 obconf
+obsidian-icon-theme
 openbox
 os-prober
 oss-compat
