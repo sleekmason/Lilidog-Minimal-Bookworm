@@ -44,6 +44,7 @@ App Alternatives,   galternatives,                    org.xfce.settings.default-
 Update Options,     update-options,                   system-software-update
 Live USB Maker,     x-terminal-emulator -T 'Live USB Maker' -e "sudo live-usb-maker-gui-antix",     gparted
 Color Chooser,      yad --color,                      org.xfce.settings.color
+Sxhkd Keys OB,      show-keybinds,                    preferences-desktop-keyboard-shortcuts
 Install Extras,     ld-installers,                    preferences-system-search
 
 ^tag(toggles)
