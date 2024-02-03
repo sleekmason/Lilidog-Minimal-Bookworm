@@ -25,6 +25,7 @@ cryptsetup-initramfs
 curl
 dbus-user-session
 dbus-x11
+dconf-gsettings-backend
 desktop-base
 dialog
 dosfstools
@@ -51,6 +52,7 @@ fortunes
 fortune-mod
 fuse3
 galternatives
+gconf-gsettings-backend
 geany
 gettext-base
 gnome-icon-theme
