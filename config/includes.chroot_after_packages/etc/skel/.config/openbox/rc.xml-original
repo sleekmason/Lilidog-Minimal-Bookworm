@@ -123,10 +123,15 @@
     <number>4</number>
     <firstdesk>1</firstdesk>
     <names>
-      <!-- set names up here if you want to, like this:
-    <name>desktop 1</name>
-    <name>desktop 2</name>
-    -->
+      <name>desktop 1</name>
+      <name>desktop 2</name>
+      <name>desktop 3</name>
+      <name>desktop 4</name>
+      <name>desktop 5</name>
+      <name>desktop 6</name>
+      <name>desktop 7</name>
+      <name>desktop 8</name>
+      <name>desktop 9</name>
     </names>
     <popupTime>885</popupTime>
     <!-- The number of milliseconds to show the popup for when switching
@@ -263,6 +268,31 @@
         <to>4</to>
       </action>
     </keybind>
+    <keybind key="W-F5">
+      <action name="GoToDesktop">
+        <to>5</to>
+      </action>
+    </keybind>
+    <keybind key="W-F6">
+      <action name="GoToDesktop">
+        <to>6</to>
+      </action>
+    </keybind>
+    <keybind key="W-F7">
+      <action name="GoToDesktop">
+        <to>7</to>
+      </action>
+    </keybind>
+    <keybind key="W-F8">
+      <action name="GoToDesktop">
+        <to>8</to>
+      </action>
+    </keybind>
+    <keybind key="W-F9">
+      <action name="GoToDesktop">
+        <to>9</to>
+      </action>
+    </keybind>
     <keybind key="W-d">
       <action name="ToggleShowDesktop"/>
     </keybind>
@@ -280,7 +310,13 @@
         <menu>client-menu</menu>
       </action>
     </keybind>
-    <!-- Take a screenshot of the current window with scrot when Alt+Print are pressed -->
+    <!-- Take a screenshot of the current window with scrot when Alt+Print are pressed
+    <keybind key="A-Print">
+      <action name="Execute">
+        <command>xfce4-screenshooter</command>
+      </action>
+    </keybind> 
+-->
     <!-- Keybindings for window switching -->
     <keybind key="A-Tab">
       <action name="NextWindow">
@@ -686,7 +722,7 @@
       </mousebind>
       <mousebind button="Right" action="Press">
         <action name="ShowMenu">
-          <command>root-menu</command>
+          <menu>root-menu</menu>
         </action>
       </mousebind>
     </context>
