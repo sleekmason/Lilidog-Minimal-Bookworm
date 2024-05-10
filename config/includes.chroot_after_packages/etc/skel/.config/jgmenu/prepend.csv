@@ -4,6 +4,7 @@
 ^sep()
 Terminal,           x-terminal-emulator,       org.xfce.terminal
 Thunar,             thunar,           system-file-manager
+Falkon,             falkon,           falkon
 ^sep()
 Quick Grab,^checkout(quickgrab), org.xfce.settings.default-applications
 ^sep()
