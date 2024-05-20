@@ -2,11 +2,11 @@
 read -p "                         [0;33mLynx Installer.[0m
 
 
-   Lynx Web Browser: [0;35mhttps://lynx.invisible-island.net/[0m
+   Lynx Web Browser: [0;34mhttps://lynx.invisible-island.net/[0m
    
    This script will install Lynx and create a new menu entry.
    
-   [0;32mMenu entries will need to be removed manually if uninstalled.
+   [0;33mMenu entries will need to be removed manually if uninstalled.
    See Jgmenu Conf under Configuration in the menu for directions.
       
    ---------------------------------------------------------------
@@ -24,7 +24,7 @@ sed -i '7i Lynx,               x-terminal-emulator -e bash -c lynx,    org.xfce.
 killall -q jgmenu
 echo "----------------------------------------------------------------"
 echo ""
-echo "[0;32mAll Finished![0m"
+echo "[0;33mAll Finished![0m"
 echo ""
 echo "[0;33mIf installed, You should find a new main menu entry.[0m"
 echo "" 
@@ -41,3 +41,4 @@ echo ""
  echo "   [0;31m-----------------------------------------------------[0m"
 echo ""
 fi
+read -n1 -p " Press any key to quit this dialog ... "
