@@ -49,7 +49,7 @@ Sxhkd Keys OB,      show-keybinds,                    preferences-desktop-keyboa
 Install Extras,     ld-installers,                    preferences-system-search
 
 ^tag(toggles)
-Conky,               $HOME/.config/conky/scripts/conky-chooser,     preferences-desktop-personal
+Conky,               conky-toggle,                                  preferences-desktop-personal
 Gammy,               toggle.gammy,                                  preferences-desktop-personal
 Jgmenu,              jg-icon-changer,                               preferences-desktop-personal
 Rofi Icons,          rofi-options,                                  preferences-desktop-personal
