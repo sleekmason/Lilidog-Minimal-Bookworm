@@ -22,14 +22,15 @@ fi
 "$HOME/.config/lilidog-themes/Custom-island"  > /dev/null 2>&1
 
 ## "--color" can be removed if wanting to use a separate color chooser.
-COLOR_CHOICE=( $(yad --color --init-color=#A14345 --form --width=320 --center --borders=6 --on-top \
+COLOR_CHOICE=( $(yad --color --init-color=#A14345 \
+--gtk-palette --palette=/usr/share/X11/rgb.txt \
+--form --width=320 --center --borders=6 --on-top \
 --title="Custom Island Theme Highlight Color " \
+--button=Cancel!gtk-delete:1 \
+--button=Apply!gtk-color-picker:0 \
 --window-icon=org.xfce.settings.color \
 --text="Please enter color choice:" --separator=' ' \
---button=Cancel:1 \
---button=Apply:0 \
 --field="Color"))
-
 ## Remove "#" if present.
 if [[ $COLOR_CHOICE == *#* ]]; then
     NEW_COLOR=$(echo $COLOR_CHOICE | sed 's|[#,]||g')
