@@ -2,8 +2,11 @@
 echo ""
 read -r -p "   [0;33mLightdm Default Installer[0m
 
-   This script will install the lightdm login manager with a 
-   customized greeter.
+   This script will install the lightdm login manager with a custom 
+   default greeter. If slick greeter is currently active, then the
+   installer will revert lightdm back to the default greeter.
+   
+   Switch between the two greeters at will using the installers.
    
    Reboot after installation to enable lightdm if not installed.
    
