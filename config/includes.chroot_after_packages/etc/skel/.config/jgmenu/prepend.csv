@@ -97,6 +97,5 @@ Urxvt,               geany ~/.Xresources,                                       
 Picom,               geany ~/.config/picom.conf,                                           document-properties
 Wallpapers,          feh-set-wallpaper,                                                    preferences-desktop-display
 Grub Background,     x-terminal-emulator -T 'Grub Background Changer' -e bash -c "grub-bg-changer; echo $'\n\nPress any key to close.'; read -srn1",  preferences-desktop-wallpaper
-Plymouth Background, x-terminal-emulator -T 'Plymouth Background Changer' -e bash -c "plymouth-changer; echo $'\n\nPress any key to close.'; read -srn1",  preferences-desktop-wallpaper
 
 ^tag(apps)
