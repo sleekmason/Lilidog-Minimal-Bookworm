@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Lilidog-Cobalt
-Comment=Lilidog-Cobalt based off Greybird theme
+Name=Fane
+Comment=Fane based off Greybird theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Lilidog-Cobalt
-MetacityTheme=Lilidog-Cobalt
+GtkTheme=Fane
+MetacityTheme=Fane
 IconTheme=Adwaita
 CursorTheme=Adwaita
 ButtonLayout=:minimize,maximize,close

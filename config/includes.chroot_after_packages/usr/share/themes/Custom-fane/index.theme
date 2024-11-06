@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Island-red
-Comment=Island-red based off Greybird theme
+Name=Custom-fane
+Comment=Custom-fane based off Greybird theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Island-red
-MetacityTheme=Island-red
+GtkTheme=Custom-fane
+MetacityTheme=Custom-fane
 IconTheme=Adwaita
 CursorTheme=Adwaita
 ButtonLayout=:minimize,maximize,close
