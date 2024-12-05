@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
-Name=Wallpaper Maker
-Exec=wallpaper-maker
+Name=Notification Sounds
+Exec=notification-sounds
 StartupNotify=false
 Terminal=false
-Icon=applications-graphics
+Icon=audio-x-generic
 Categories=ld-misc-tools;
